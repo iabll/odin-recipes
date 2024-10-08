@@ -1,0 +1,1 @@
+This project is focused on building a basic recipe website, where the main page will have links to recipes.
